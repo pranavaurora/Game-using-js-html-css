@@ -1,2 +1,1 @@
-# Game-using-js-html-css
-# Game-using-js-html-css
+A minesweeper-like game built using HTML, CSS, js from scratch. 
